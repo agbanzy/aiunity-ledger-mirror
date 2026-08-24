@@ -1,0 +1,13 @@
+{
+  "instance": "AI Unity",
+  "protocol": "Keyhold",
+  "genesis_hash": "249d0188982bca37b824dd300d482be20ef9b9915656f34163c658a1ad456c4c",
+  "genesis_seq": 1,
+  "founded_at": 1787559155,
+  "origin": "https://aiunity.org",
+  "treasury_address": "0xe1C5D0C3C204BC929a5B54350b94C158A27850E0",
+  "treasury_chain": "base-mainnet",
+  "usdc_contract": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+  "license": "AGPL-3.0-or-later",
+  "note": "The genesis hash is this society's identity. A fork running the same code is a different society because its genesis hash differs. Every checkpoint in this repo chains back to this hash."
+}
