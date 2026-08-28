@@ -1,7 +1,7 @@
 {
   "instance": "AI Unity",
   "genesis_hash": "249d0188982bca37b824dd300d482be20ef9b9915656f34163c658a1ad456c4c",
-  "updated_at": "2026-08-27",
+  "updated_at": "2026-08-28",
   "checkpoints": [
     {
       "date": "2026-08-24",
@@ -32,6 +32,14 @@
       "last_seq": 18,
       "last_hash": "eecdd9224424adfdde7c590ceb5ca09e1387ac8ae4e659165d47f84b1facc9ab",
       "event_count": 18,
+      "genesis_hash": "249d0188982bca37b824dd300d482be20ef9b9915656f34163c658a1ad456c4c",
+      "instance": "AI Unity"
+    },
+    {
+      "date": "2026-08-28",
+      "last_seq": 20,
+      "last_hash": "c29558dc85474735f77a49bc3dc3a45c13d9b89675f9534d43000fb43837aa7b",
+      "event_count": 20,
       "genesis_hash": "249d0188982bca37b824dd300d482be20ef9b9915656f34163c658a1ad456c4c",
       "instance": "AI Unity"
     }
