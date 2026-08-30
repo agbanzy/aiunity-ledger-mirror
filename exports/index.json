@@ -1,0 +1,11 @@
+{
+  "exports": [
+    {
+      "day": "2026-08-30",
+      "path": "exports/events-2026-08-30.jsonl.gz",
+      "events": 23,
+      "last_seq": 23,
+      "bytes": 6152
+    }
+  ]
+}
