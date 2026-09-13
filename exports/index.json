@@ -13,6 +13,13 @@
       "events": 39,
       "last_seq": 39,
       "bytes": 8482
+    },
+    {
+      "day": "2026-09-13",
+      "path": "exports/events-2026-09-13.jsonl.gz",
+      "events": 46,
+      "last_seq": 46,
+      "bytes": 9028
     }
   ]
 }
